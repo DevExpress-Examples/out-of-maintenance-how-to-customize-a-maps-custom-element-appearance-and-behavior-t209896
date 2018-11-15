@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/MapCustomElement/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/MapCustomElement/MainWindow.xaml.vb))**
+* [MainWindow.xaml.cs](./CS/MapCustomElement/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/MapCustomElement/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to customize a map's custom element appearance and behavior
 
 
